@@ -1,0 +1,15 @@
+C:\PROYECTO DE ORISON\obj\Debug\net7.0\PROYECTO DE ORISON.csproj.AssemblyReference.cache
+C:\PROYECTO DE ORISON\obj\Debug\net7.0\PROYECTO DE ORISON.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTO DE ORISON\obj\Debug\net7.0\PROYECTO DE ORISON.AssemblyInfoInputs.cache
+C:\PROYECTO DE ORISON\obj\Debug\net7.0\PROYECTO DE ORISON.AssemblyInfo.cs
+C:\PROYECTO DE ORISON\obj\Debug\net7.0\PROYECTO DE ORISON.csproj.CoreCompileInputs.cache
+C:\PROYECTO DE ORISON\bin\Debug\net7.0\PROYECTO DE ORISON.exe
+C:\PROYECTO DE ORISON\bin\Debug\net7.0\PROYECTO DE ORISON.deps.json
+C:\PROYECTO DE ORISON\bin\Debug\net7.0\PROYECTO DE ORISON.runtimeconfig.json
+C:\PROYECTO DE ORISON\bin\Debug\net7.0\PROYECTO DE ORISON.dll
+C:\PROYECTO DE ORISON\bin\Debug\net7.0\PROYECTO DE ORISON.pdb
+C:\PROYECTO DE ORISON\obj\Debug\net7.0\PROYECTO DE ORISON.dll
+C:\PROYECTO DE ORISON\obj\Debug\net7.0\refint\PROYECTO DE ORISON.dll
+C:\PROYECTO DE ORISON\obj\Debug\net7.0\PROYECTO DE ORISON.pdb
+C:\PROYECTO DE ORISON\obj\Debug\net7.0\PROYECTO DE ORISON.genruntimeconfig.cache
+C:\PROYECTO DE ORISON\obj\Debug\net7.0\ref\PROYECTO DE ORISON.dll

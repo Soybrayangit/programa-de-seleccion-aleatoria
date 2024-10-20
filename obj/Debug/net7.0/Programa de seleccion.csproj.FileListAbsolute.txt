@@ -1,0 +1,15 @@
+C:\Programa de seleccion aleatoria\bin\Debug\net7.0\Programa de seleccion.exe
+C:\Programa de seleccion aleatoria\bin\Debug\net7.0\Programa de seleccion.deps.json
+C:\Programa de seleccion aleatoria\bin\Debug\net7.0\Programa de seleccion.runtimeconfig.json
+C:\Programa de seleccion aleatoria\bin\Debug\net7.0\Programa de seleccion.dll
+C:\Programa de seleccion aleatoria\bin\Debug\net7.0\Programa de seleccion.pdb
+C:\Programa de seleccion aleatoria\obj\Debug\net7.0\Programa de seleccion.csproj.AssemblyReference.cache
+C:\Programa de seleccion aleatoria\obj\Debug\net7.0\Programa de seleccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programa de seleccion aleatoria\obj\Debug\net7.0\Programa de seleccion.AssemblyInfoInputs.cache
+C:\Programa de seleccion aleatoria\obj\Debug\net7.0\Programa de seleccion.AssemblyInfo.cs
+C:\Programa de seleccion aleatoria\obj\Debug\net7.0\Programa de seleccion.csproj.CoreCompileInputs.cache
+C:\Programa de seleccion aleatoria\obj\Debug\net7.0\Programa de seleccion.dll
+C:\Programa de seleccion aleatoria\obj\Debug\net7.0\refint\Programa de seleccion.dll
+C:\Programa de seleccion aleatoria\obj\Debug\net7.0\Programa de seleccion.pdb
+C:\Programa de seleccion aleatoria\obj\Debug\net7.0\Programa de seleccion.genruntimeconfig.cache
+C:\Programa de seleccion aleatoria\obj\Debug\net7.0\ref\Programa de seleccion.dll
